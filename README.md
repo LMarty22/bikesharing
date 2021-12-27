@@ -6,6 +6,8 @@ The purpose of this analysis is to provide the potential investors with informat
 
 ## Results
 Please see Tableau Story
+[link to dashboard](https://10ay.online.tableau.com/t/module14tableaudu/authoring/BikeSharingChallenge/UserTripsbyGenderbyWeekday_1/Challenge%20Story#3)
+Copy of PDF provided, due to Tableau download issues the online trial version was used. 
 
 ## Summary
 
